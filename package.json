@@ -9,12 +9,21 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "axios": "^1.9.0",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "mongoose": "^8.15.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetapalemharika/leadmanagement.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vetapalemharika/leadmanagement/issues"
+  },
+  "homepage": "https://github.com/vetapalemharika/leadmanagement#readme",
+  "description": ""
 }
